@@ -1,1 +1,1 @@
-# Study Finance IA
+# INTO QUANT DEVELOPER
